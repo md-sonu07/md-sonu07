@@ -32,7 +32,7 @@
 ### 📊 GitHub Insights & Achievements:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danish-farhan07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=danish-farhan07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?username=danish-farhan07&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
