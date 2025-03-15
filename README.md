@@ -19,20 +19,34 @@
 
 <table>
   <tr>
-    <td>
-      <ul>
-        <li>**HTML** ![HTML](https://img.shields.io/badge/HTML-70%25-orange)</li>
-        <li>**CSS** ![CSS](https://img.shields.io/badge/CSS-65%25-blue)</li>
-        <li>**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)</li>
-        <li>**React** ![React](https://img.shields.io/badge/React-50%25-lightblue)</li>
-        <li>**Node.js** ![Node.js](https://img.shields.io/badge/Node.js-55%25-green)</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
+    <th>Technology</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td><img src="https://img.shields.io/badge/HTML-70%25-orange" alt="HTML" /></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td><img src="https://img.shields.io/badge/CSS-65%25-blue" alt="CSS" /></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><img src="https://img.shields.io/badge/JavaScript-60%25-yellow" alt="JavaScript" /></td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td><img src="https://img.shields.io/badge/React-50%25-lightblue" alt="React" /></td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td><img src="https://img.shields.io/badge/Node.js-55%25-green" alt="Node.js" /></td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ### ⚡ Tech Stack & Tools:
 
