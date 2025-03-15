@@ -17,11 +17,22 @@
 ---
 ### 📊 Programming Status:
 
-- **HTML** ![HTML](https://img.shields.io/badge/HTML-70%25-orange)
-- **CSS** ![CSS](https://img.shields.io/badge/CSS-65%25-blue)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
-- **React** ![React](https://img.shields.io/badge/React-50%25-lightblue)
-- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-55%25-green)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>**HTML** ![HTML](https://img.shields.io/badge/HTML-70%25-orange)</li>
+        <li>**CSS** ![CSS](https://img.shields.io/badge/CSS-65%25-blue)</li>
+        <li>**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)</li>
+        <li>**React** ![React](https://img.shields.io/badge/React-50%25-lightblue)</li>
+        <li>**Node.js** ![Node.js](https://img.shields.io/badge/Node.js-55%25-green)</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Tech Stack & Tools:
 
@@ -35,7 +46,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danish-farhan07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-farhan07&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
