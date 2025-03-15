@@ -1,52 +1,61 @@
 ## 🎉 Welcome to My GitHub Universe! 🌌🚀
 
 ### 👋 Hey there! I'm **Md Sonu**, also known as **Danish Farhan**. Feel free to call me by whichever name suits you best! 😃
+---
+### 💻 **Innovative Full-Stack Developer | MERN Stack Aficionado** 💡
 
-💻 **Innovative Full-Stack Developer | MERN Stack Aficionado** 💡
+- 🎓 **BCA Student (2024-2027)** @ Arya Bhat Knowledge University
+- 💻 Passionate Full-Stack Developer from **Araria, Bihar**
+- 🚀 Specializing in **JavaScript, React.js, Tailwind CSS, Node.js, and MongoDB**
+- 🌱 Constantly learning and improving my **coding & problem-solving skills**
+- 🛠️ Enjoys working with **APIs, databases, and scalable architectures**
+- 🎯 **Aspiration:** Building an **interactive & scalable**
+- 🤝 Open to **exciting projects & collaborations**
+- 📢 Actively sharing knowledge & contributing to the **developer community**
 
-```yaml
-🎓 **BCA Student (2024-2027)** @ Arya Bhat Knowledge University
-💻 Passionate Full-Stack Developer from **Araria, Bihar**
-🚀 Specializing in **JavaScript, React.js, Tailwind CSS, Node.js, and MongoDB**
-🌱 Constantly learning and improving my **coding & problem-solving skills**
-🛠️ Enjoys working with **APIs, databases, and scalable architectures**
-🎯 **Aspiration:** Building an **interactive & scalable**
-🤝 Open to **exciting projects & collaborations**
-📢 Actively sharing knowledge & contributing to the **developer community**
-```
 ---
 ### 📊 Programming Status:
 
+
+
 <table>
-  <tr>
-    <th>Technology</th>
-    <th>Proficiency</th>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td><img src="https://img.shields.io/badge/HTML-70%25-orange" alt="HTML" /></td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td><img src="https://img.shields.io/badge/CSS-65%25-blue" alt="CSS" /></td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td><img src="https://img.shields.io/badge/JavaScript-60%25-yellow" alt="JavaScript" /></td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td><img src="https://img.shields.io/badge/React-50%25-lightblue" alt="React" /></td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td><img src="https://img.shields.io/badge/Node.js-55%25-green" alt="Node.js" /></td>
-  </tr>
+    <tr>
+        <td>
+            <h2>Technology Proficiency</h2>
+            <table align="center">
+                <tr>
+                    <th>Technology</th>
+                    <th>Proficiency</th>
+                </tr>
+                <tr>
+                    <td><strong>HTML</strong></td>
+                   <td><img src="https://img.shields.io/badge/HTML-80%25-orange" alt="HTML" /></td>
+                </tr>
+                <tr>
+                    <td><strong>CSS</strong></td>
+                    <td><img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS" /></td>
+                </tr>
+                <tr>
+                    <td><strong>JavaScript</strong></td>
+                    <td><img src="https://img.shields.io/badge/JavaScript-50%25-yellow" alt="JavaScript" /></td>
+                </tr>
+                <tr>
+                    <td><strong>React Js</strong></td>
+                    <td><img src="https://img.shields.io/badge/React-50%25-lightblue" alt="React" /></td>
+                </tr>
+                <tr>
+                    <td><strong>C language</strong></td>
+                    <td><img src="https://img.shields.io/badge/C-55%25-green" alt="C Language" /></td>
+                </tr>
+            </table>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" 
+                 alt="Top Languages">
+        </td>
+    </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ### ⚡ Tech Stack & Tools:
 
