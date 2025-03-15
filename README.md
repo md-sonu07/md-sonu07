@@ -2,7 +2,7 @@
 
 ### 👋 Hey there! I'm **Md Sonu**, also known as **Danish Farhan**. Feel free to call me by whichever name suits you best! 😃
 
-![Banner](/github-header-image.png) 
+
 
 💻 **Innovative Full-Stack Developer | MERN Stack Aficionado** 💡
 
@@ -15,11 +15,11 @@
 ---
 ### 📊 Programming Status:
 
-- **HTML** ![HTML](https://progress-bar.dev/70/?title=HTML)
-- **CSS** ![CSS](https://progress-bar.dev/65/?title=CSS)
-- **JavaScript** ![JavaScript](https://progress-bar.dev/60/?title=JavaScript)
-- **React** ![React](https://progress-bar.dev/50/?title=React)
-- **Node.js** ![Node.js](https://progress-bar.dev/55/?title=Node.js)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-70%25-orange)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-65%25-blue)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
+- **React** ![React](https://img.shields.io/badge/React-50%25-lightblue)
+- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-55%25-green)
 
 ### ⚡ Tech Stack & Tools:
 
@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Insights & Achievements:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danish-Farhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danish-Farhan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Farhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danish-farhan07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=danish-farhan07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
