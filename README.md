@@ -18,7 +18,7 @@
 
 
 
-<table>
+<table  align="center>
     <tr>
         <td>
             <h2>Technology Proficiency</h2>
