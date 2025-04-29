@@ -67,8 +67,8 @@
 
 ### 📊 GitHub Insights & Achievements:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish-farhan07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-farhan07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-sonu07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sonu07&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -86,8 +86,8 @@
 ### 🤝 Connect with Me:
 
 <div align="center">
-  <a href="https://linkedin.com/in/danish-farhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/danish-farhan07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/md-sonu07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/md-sonu07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://danishfarhan.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
 
