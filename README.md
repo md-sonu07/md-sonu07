@@ -50,7 +50,7 @@
             </table>
         </td>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-farhan07&layout=compact&theme=tokyonight" 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sonu07&layout=compact&theme=tokyonight" 
                  alt="Top Languages">
         </td>
     </tr>
@@ -75,11 +75,11 @@
 
 ### 🚀 Noteworthy Projects:
 
-📌 **[React JS 15 Days](https://github.com/danish-farhan07/react-js-15-days)** - A structured learning plan for mastering React.js 🚀
+📌 **[React JS 15 Days](https://github.com/md-sonu07/react-js-15-days)** - A structured learning plan for mastering React.js 🚀
 
-📌 **[Movie Website](https://github.com/danish-farhan07/movie-website)** - A dynamic movie browsing website 🎬
+📌 **[Movie Website](https://github.com/md-sonu07/movie-website)** - A dynamic movie browsing website 🎬
 
-📌 **[C Programming Repository](https://github.com/danish-farhan07/c-programming)** - C programming exercises and notes 💻
+📌 **[C Programming Repository](https://github.com/md-sonu07/c-programming)** - C programming exercises and notes 💻
 
 ---
 
