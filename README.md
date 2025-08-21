@@ -16,20 +16,18 @@
 ---
 ### 📊 Programming Status:
 
-
-
-<table  align="center">
+<table align="center">
     <tr>
         <td>
             <h2>Technology Proficiency</h2>
-            <table align="center">
+            <table align="center" border="1" cellspacing="0" cellpadding="8">
                 <tr>
                     <th>Technology</th>
                     <th>Proficiency</th>
                 </tr>
                 <tr>
                     <td><strong>HTML</strong></td>
-                   <td><img src="https://img.shields.io/badge/HTML-80%25-orange" alt="HTML" /></td>
+                    <td><img src="https://img.shields.io/badge/HTML-80%25-orange" alt="HTML" /></td>
                 </tr>
                 <tr>
                     <td><strong>CSS</strong></td>
@@ -40,21 +38,24 @@
                     <td><img src="https://img.shields.io/badge/JavaScript-50%25-yellow" alt="JavaScript" /></td>
                 </tr>
                 <tr>
-                    <td><strong>React Js</strong></td>
-                    <td><img src="https://img.shields.io/badge/React-50%25-lightblue" alt="React" /></td>
+                    <td><strong>React JS</strong></td>
+                    <td><img src="https://img.shields.io/badge/React-50%25-lightblue" alt="React JS" /></td>
                 </tr>
                 <tr>
-                    <td><strong>C language</strong></td>
+                    <td><strong>C Language</strong></td>
                     <td><img src="https://img.shields.io/badge/C-55%25-green" alt="C Language" /></td>
                 </tr>
             </table>
         </td>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sonu07&layout=compact&theme=tokyonight" 
-                 alt="Top Languages">
-        </td>
     </tr>
 </table>
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sonu07&layout=compact&theme=tokyonight" 
+         alt="Top Languages" />
+</div>
+
 
 
 ### ⚡ Tech Stack & Tools:
